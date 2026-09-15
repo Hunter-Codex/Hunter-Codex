@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Subrata Roy 👋
 
-<!--
-**Hunter-Codex/Hunter-Codex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE (Data Analytics) Student | Aspiring Software Developer & Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+I'm a first-year B.Tech student passionate about software development,
+data analytics, cybersecurity, and building real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Currently Learning
+
+- C Programming
+- C++
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+- Web Development
+- Data Analytics
+- Cybersecurity & Ethical Hacking
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+C • C++ • Python
+
+### Tools & Technologies
+Git • GitHub • VS Code • Linux
+
+### Currently Exploring
+Data Analytics • Web Development • Cybersecurity
+
+---
+
+## 🎯 My Goals
+
+- Build real-world projects
+- Improve problem-solving skills
+- Learn Data Structures & Algorithms
+- Participate in hackathons
+- Contribute to open-source projects
+- Get internships and industry experience
+
+---
+
+## 📌 Featured Projects
+
+> 🚧 Projects are currently being built. Stay tuned!
+
+---
+
+## 📊 GitHub Journey
+
+I'm documenting my learning journey through coding,
+projects, experiments, and open-source contributions.
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: [@Hunter-Codex](https://github.com/Hunter-Codex)
+- LinkedIn: Coming Soon
+
+---
+
+⭐ Thanks for visiting my profile!
