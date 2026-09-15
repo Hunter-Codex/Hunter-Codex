@@ -60,7 +60,7 @@ projects, experiments, and open-source contributions.
 ## 🤝 Connect With Me
 
 - GitHub: [@Hunter-Codex](https://github.com/Hunter-Codex)
-- LinkedIn: Coming Soon
+- LinkedIn: https://www.linkedin.com/in/subrata-roy-4234b9428
 
 ---
 
